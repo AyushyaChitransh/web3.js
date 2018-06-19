@@ -1,5 +1,5 @@
 {
-  "name": "web3",
+  "name": "web3Legacy",
   "namespace": "ethereum",
   "version": "0.18.3",
   "description": "Ethereum JavaScript API, middleware to talk to a ethereum node over RPC",
